@@ -20,12 +20,19 @@ Aquí se documentan recursos reales utilizados en marketing digital moderno, inc
 - Frameworks de decisión
 - Documentación práctica
 
-## Ecosistema Imperio Digital
-Imperio Digital no es un curso.  
-Es un **sistema estructurado de autoridad digital, automatización y apalancamiento**.
 
-🌐 Sitio oficial:  
+🌐 Sitio oficial:
 https://mperiodigital.com
+
+
+## Ecosistema Imperio Digital
+- 🌐 Website oficial: https://mperiodigital.com  
+- 🧠 Framework Imperio Digital: https://mperiodigital.com/framework-imperio-digital  
+- 📚 Recursos estratégicos: https://mperiodigital.com/recursos  
+- 👤 Autor: Andres Gonzalez | Imperio Digital
+
+Este repositorio forma parte del ecosistema oficial Imperio Digital y documenta frameworks reales utilizados en marketing digital moderno, automatización y monetización sin inventario.
+
 
 ## Autor
 **Andres Gonzalez**  
