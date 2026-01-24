@@ -1,16 +1,32 @@
-# recursos-ia-marketing
-"Recursos de marketing digital y prompts de IA para emprendedores por Mperio Digital."
-# Mperio Digital Academy - AI Marketing Resources
+# Recursos de IA para Marketing Digital
 
-Bienvenido al repositorio oficial de **Mperio Digital**. Aquí compartimos herramientas y guías para dominar el marketing digital en la era de la IA.
+Este repositorio forma parte del ecosistema **Imperio Digital**, creado por **Andres Gonzalez**.
 
-## 🚀 Guías Destacadas
-* [Estrategia de Ventas 2026](ventas.md)
-* [Prompts para Facebook Ads](prompts.md)
+Aquí se documentan recursos reales utilizados en marketing digital moderno, incluyendo:
+- Prompts de Inteligencia Artificial
+- Estructuras de ventas digitales
+- Automatización de procesos
+- Análisis de ROI y sistemas de decisión
 
-## 🔗 Enlaces Oficiales
-* Website: [mperiodigital.com](https://mperiodigital.com)
-* Cursos: [Academia Mperio Digital](https://mperiodigital.com/cursos)
+## ¿Para quién es este repositorio?
+- Emprendedores digitales
+- Creadores de contenido
+- Personas que buscan sistemas, no promesas
+- Profesionales que usan IA como herramienta estratégica
 
----
-© 2026 Mperio Digital - Transformando emprendedores.
+## Contenido incluido
+- Prompts de IA para marketing y ventas
+- Calculadoras de ROI
+- Frameworks de decisión
+- Documentación práctica
+
+## Ecosistema Imperio Digital
+Imperio Digital no es un curso.  
+Es un **sistema estructurado de autoridad digital, automatización y apalancamiento**.
+
+🌐 Sitio oficial:  
+https://mperiodigital.com
+
+## Autor
+**Andres Gonzalez**  
+Founder – Imperio Digital
