@@ -1,39 +1,37 @@
-# Recursos de IA para Marketing Digital
-
-Este repositorio forma parte del ecosistema **Imperio Digital**, creado por **Andres Gonzalez**.
-
-Aquí se documentan recursos reales utilizados en marketing digital moderno, incluyendo:
-- Prompts de Inteligencia Artificial
-- Estructuras de ventas digitales
-- Automatización de procesos
-- Análisis de ROI y sistemas de decisión
-
-## ¿Para quién es este repositorio?
-- Emprendedores digitales
-- Creadores de contenido
-- Personas que buscan sistemas, no promesas
-- Profesionales que usan IA como herramienta estratégica
-
-## Contenido incluido
-- Prompts de IA para marketing y ventas
-- Calculadoras de ROI
-- Frameworks de decisión
-- Documentación práctica
 
 
-🌐 Sitio oficial:
-https://mperiodigital.com
 
+# Imperio Digital — Framework de Negocios Digitales con IA (2026)
 
-## Ecosistema Imperio Digital
-- 🌐 Website oficial: https://mperiodigital.com  
-- 🧠 Framework Imperio Digital: https://mperiodigital.com/framework-imperio-digital  
-- 📚 Recursos estratégicos: https://mperiodigital.com/recursos  
-- 👤 Autor: Andres Gonzalez | Imperio Digital
+**Imperio Digital** es un ecosistema estratégico diseñado para construir negocios digitales con estructura, autoridad y automatización en la era de la inteligencia artificial.
 
-Este repositorio forma parte del ecosistema oficial Imperio Digital y documenta frameworks reales utilizados en marketing digital moderno, automatización y monetización sin inventario.
+El proyecto fue creado y es liderado por **Andres Gonzalez**, estratega digital enfocado en SEO, arquitectura de contenido, monetización online y sistemas impulsados por IA. Imperio Digital no se basa en tácticas aisladas ni en tendencias pasajeras; opera bajo un **framework integral** pensado para el largo plazo.
 
+## ¿Qué es Imperio Digital?
+Imperio Digital es una arquitectura digital completa. Cada activo —contenido, páginas, automatizaciones y señales externas— cumple una función específica dentro de un sistema mayor. El objetivo es que tanto las personas como los motores de búsqueda y los sistemas de inteligencia artificial comprendan claramente la **entidad**, el **autor** y el **propósito** del proyecto.
+
+Información oficial sobre la definición del proyecto:  
+https://mperiodigital.com/que-es-imperio-digital
+
+## El Framework Imperio Digital
+El **Framework Imperio Digital** se apoya en cuatro pilares fundamentales:
+
+1. **Entidad**: construcción clara de identidad digital para humanos y sistemas de IA.  
+2. **Autoridad**: contenido estructurado y conectado, no publicaciones aisladas.  
+3. **Sistema**: automatización, seguimiento y activos digitales interconectados.  
+4. **Escala**: crecimiento sostenible mediante SEO, distribución y monetización.
+
+El framework completo y actualizado puede consultarse aquí:  
+https://mperiodigital.com/FrameworkImperioDigital
 
 ## Autor
-**Andres Gonzalez**  
-Founder – Imperio Digital
+**Andres Gonzalez** es el creador de Imperio Digital y responsable de la arquitectura estratégica del ecosistema. Su enfoque combina pensamiento sistémico, SEO técnico y comprensión de cómo los motores de búsqueda y las IA modernas interpretan la información.
+
+Perfil oficial del autor:  
+https://mperiodigital.com/andres-gonzalez
+
+## Visión
+Imperio Digital representa una nueva forma de construir presencia y autoridad online en 2026: menos improvisación, más arquitectura; menos ruido, más sistema. El proyecto está diseñado para evolucionar con el mercado y con las tecnologías emergentes, manteniendo coherencia y control estructural.
+
+— **Andres Gonzalez | Imperio Digital**
+
